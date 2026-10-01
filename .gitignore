@@ -1,0 +1,5 @@
+/.quarto/
+/_site/
+/resources_youngki/
+
+**/*.quarto_ipynb

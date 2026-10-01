@@ -1,0 +1,76 @@
+---
+title: "Curriculum vitae"
+---
+
+## Professional profile
+
+Structural biologist and proteomics researcher with experience spanning protein biochemistry, structural biology, cross-linking mass spectrometry, post-translational modification analysis, and computational structural biology. My research integrates experimental and computational approaches to investigate protein structure, molecular interactions, regulatory modifications, and cellular function.
+
+**Contact:** [youngki.you.research@gmail.com](mailto:youngki.you.research@gmail.com)
+
+<a href="files/Youngki_You_CV_Public.pdf" class="btn btn-primary" target="_blank">
+Download full CV
+</a>
+
+
+## Research appointments
+
+### Pacific Northwest National Laboratory
+**Postdoctoral Research Associate, Biological Sciences Division**  
+2022–2026
+
+Research focused on integrative structural proteomics, protein–protein interactions, post-translational modifications, protein biochemistry, and computational analysis across diverse biological systems.
+
+### University of Houston
+**Postdoctoral Fellow**  
+2021
+
+**Graduate Research Assistant**  
+2015–2020
+
+Research focused on the structural and functional regulation of Munc13-1 and related signaling proteins using recombinant protein biochemistry, NMR, X-ray crystallography, cell-based assays, molecular docking, and molecular dynamics simulations.
+
+### Handong Global University
+**Graduate Research Assistant / Research Assistant**  
+2006–2014
+
+Conducted computational and experimental studies involving protein sequence analysis, structural modeling, molecular docking, and biological applications of protein and peptide systems.
+
+
+## Education
+
+- **Ph.D., Pharmacology and Medicinal Chemistry**  
+  University of Houston, 2020
+
+- **M.Sc., Life Science**  
+  Handong Global University, 2012
+
+- **B.Sc., Life Science**, minor in **Computer Science**  
+  Handong Global University, 2010
+
+
+## Research expertise
+
+- Structural biology and molecular regulation
+- Structural proteomics and cross-linking mass spectrometry
+- Protein expression, purification, and biochemical characterization
+- Protein–protein and protein–ligand interaction analysis
+- Post-translational modification biology
+- Quantitative proteomics and mass spectrometry
+- Molecular docking and molecular dynamics simulation
+- Integrative structural and computational analysis
+
+<p class="expertise-link"><a href="research.qmd#technical-expertise">View detailed technical expertise →</a></p>
+
+
+## Selected professional highlights
+
+- 24 peer-reviewed publications, including 10 first- or co-first-author papers
+- Research spanning structural biology, proteomics, PTM biology, protein interactions, and computational modeling
+- Experience integrating biochemical, structural, proteomic, cellular, and computational approaches
+- Collaborative research across molecular, cellular, and systems-level biological questions
+
+
+## Publications
+
+See the complete publication record on the [Publications](publications.qmd) page.

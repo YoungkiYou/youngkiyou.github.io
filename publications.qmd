@@ -1,0 +1,147 @@
+---
+title: "Publications"
+---
+
+**24 peer-reviewed publications, including 10 first- or co-first-author papers**, spanning structural biology, structural proteomics, post-translational modification biology, and quantitative proteomics.
+
+† Equal contribution.
+
+## Selected publications
+
+Representative publications highlighting the major research directions presented on this site.
+
+### Structural regulation and molecular recognition
+
+- **You Y**, Katti S, Yu B, Igumenova TI, Das J.  
+  [**Probing the diacylglycerol binding site of presynaptic Munc13-1**](https://doi.org/10.1021/acs.biochem.1c00165).  
+  *Biochemistry* (2021), 60(16), 1286–1298.  
+  Integrated NMR, mutagenesis, cellular assays, docking, and molecular dynamics to define structural determinants of ligand binding and membrane recruitment in Munc13-1.
+
+- Neupane NP†, Mathews JT†, Lingaraju S†, **You Y**†, et al.  
+  [**Mitragynine and Morphine Stabilize Different Conformations of the µ-Opioid Receptor as Revealed by Molecular Dynamics Simulation Studies**](https://doi.org/10.1021/acsomega.5c12348).  
+  *ACS Omega* (2026).  
+  Applied molecular docking and molecular dynamics to examine ligand-dependent conformational states of a neuronal signaling receptor.
+
+
+### Structural proteomics and protein interactions
+
+- Madison HJ, Dunn L, **You Y**, et al.  
+  [**Oligomeric assemblies of plant biotin carboxylase revealed by cryo-EM and cross-linking**](https://doi.org/10.1042/BCJ20250372).  
+  *Biochemical Journal* (2026), 483, 803–817.  
+  Integrated XL-MS restraints with structural analysis to support higher-order models of biotin carboxylase assembly.
+
+- He Y, Song H, **You Y**, et al.  
+  [**A model of human APOA2 on HDL**](https://doi.org/10.1016/j.jlr.2026.101113).  
+  *Journal of Lipid Research* (2026), 67(9), 101113.  
+  Used XL-MS-derived restraints to support structural modeling of APOA2 and its interactions with APOA1 on HDL.
+
+
+### Post-translational modification biology
+
+- **You Y**†, Tsai C-F†, Patel R, et al.  
+  [**Analysis of a macrophage carbamylated proteome reveals a function in post-translational modification crosstalk**](https://doi.org/10.1186/s12964-023-01257-3).  
+  *Cell Communication and Signaling* (2023), 21, 241.  
+  Integrated carbamylation, acetylation, and phosphorylation proteomics to investigate PTM crosstalk and the functional relationship between carbamylation and ubiquitin regulation.
+
+- **You Y**, Sarkar S, Deiter C, et al.  
+  [**Reduction of Chemokine CXCL9 Expression by Omega-3 Fatty Acids via ADP-Ribosylhydrolase ARH3 in MIN6 Insulin-Producing Cells**](https://doi.org/10.1002/pmic.202400053).  
+  *Proteomics* (2025), e202400053.  
+  Combined cell-based perturbation, quantitative proteomics, and functional analysis to investigate ARH3-dependent regulation of inflammatory CXCL9 signaling in pancreatic β cells.
+
+
+## Peer-reviewed publications
+
+### 2026
+
+- He Y, Song H, **You Y**, et al. [A model of human APOA2 on HDL](https://doi.org/10.1016/j.jlr.2026.101113). *Journal of Lipid Research* (2026).
+
+- Madison HJ, Dunn L, **You Y**, et al. [Oligomeric assemblies of plant biotin carboxylase revealed by cryo-EM and cross-linking](https://doi.org/10.1042/BCJ20250372). *Biochemical Journal* (2026).
+
+- Neupane NP†, Mathews JT†, Lingaraju S†, **You Y**†, et al. [Mitragynine and Morphine Stabilize Different Conformations of the µ-Opioid Receptor as Revealed by Molecular Dynamics Simulation Studies](https://doi.org/10.1021/acsomega.5c12348). *ACS Omega* (2026).
+
+- Powell SM, **You Y**, Ogbu CP, Melchior JT. [The structural and functional journey of Apolipoprotein A-I through the human body](https://doi.org/10.1007/s11883-026-01405-3). *Current Atherosclerosis Reports* (2026).
+
+
+### 2025
+
+- Dakup PP, Diaz Ludovico I, **You Y**, et al. [Challenges and opportunities in state-of-the-art proteomics analysis for biomarker development from plasma extracellular vesicles](https://doi.org/10.1002/pmic.70036). *Proteomics* (2025).
+
+- **You Y**, Many G, Nakayasu ES. [Protein carbamylation and proteomics: from artifacts to elucidation of biological functions](https://doi.org/10.3389/frans.2024.1512573). *Frontiers in Analytical Science* (2025).
+
+
+### 2024
+
+- **You Y**, Sarkar S, Deiter C, et al. [Reduction of Chemokine CXCL9 Expression by Omega-3 Fatty Acids via ADP-Ribosylhydrolase ARH3 in MIN6 Insulin-Producing Cells](https://doi.org/10.1002/pmic.202400053). *Proteomics* (2024).
+
+- Sarkar S, Morris J, **You Y**, et al. [APOA2 increases cholesterol efflux capacity to plasma HDL by displacing the C-terminus of resident APOA1](https://doi.org/10.1016/j.jlr.2024.100686). *Journal of Lipid Research* (2024).
+
+- Sarkar S, Zheng X, Clair G, Kwon YM, **You Y**, et al. [Exploring new frontiers in type 1 diabetes through advanced mass-spectrometry-based molecular measurements](https://doi.org/10.1016/j.molmed.2024.07.009). *Trends in Molecular Medicine* (2024).
+
+- Walukiewicz HE, Farris Y, Burnet MC, Feid SC, **You Y**, et al. [Regulation of bacterial stringent response by an evolutionarily conserved ribosomal protein L11 methylation](https://doi.org/10.1128/mbio.01773-24). *mBio* (2024).
+
+
+### 2023
+
+- **You Y**†, Tsai C-F†, Patel R, et al. [Analysis of a macrophage carbamylated proteome reveals a function in post-translational modification crosstalk](https://doi.org/10.1186/s12964-023-01257-3). *Cell Communication and Signaling* (2023).
+
+- Das J†, **You Y**†, Mathukumalli K, Ann J, Lee J, et al. [Activation of Munc13-1 by Diacylglycerol (DAG)-Lactones](https://doi.org/10.1021/acs.biochem.3c00375). *Biochemistry* (2023).
+
+- **You Y**, Mathukumalli K, Das J. [Comparison of the ligand binding site of C1 domains: a molecular dynamics simulation study of the C1 domain–phorbol 13-acetate–membrane system](https://doi.org/10.1080/07391102.2022.2163699). *Journal of Biomolecular Structure and Dynamics* (2023).
+
+- Vallejo MC, Sarkar S, Elliott EC, Henry HR, Powell SM, Diaz Ludovico I, **You Y**, et al. [A proteomic meta-analysis refinement of plasma extracellular vesicles](https://doi.org/10.1038/s41597-023-02748-1). *Scientific Data* (2023).
+
+
+### 2021
+
+- **You Y**, Das J. [Molecular dynamics simulation studies on binding of activator and inhibitor to Munc13-1 C1 in the presence of membrane](https://doi.org/10.1080/07391102.2021.2001375). *Journal of Biomolecular Structure and Dynamics* (2021).
+
+- Khan TK, **You Y**, Nelson TJ, Kundu S, Pramanik SK, et al. [Modulation of proteasome activity by curcumin and didemethylcurcumin](https://doi.org/10.1080/07391102.2021.1911853). *Journal of Biomolecular Structure and Dynamics* (2021).
+
+- **You Y**, Katti S, Yu B, Igumenova TI, Das J. [Probing the diacylglycerol binding site of presynaptic Munc13-1](https://doi.org/10.1021/acs.biochem.1c00165). *Biochemistry* (2021).
+
+
+### 2020
+
+- **You Y**, Das J. [Effect of ethanol on Munc13-1 C1 in membrane: A Molecular Dynamics Simulation Study](https://doi.org/10.1111/acer.14363). *Alcoholism: Clinical and Experimental Research* (2020).
+
+
+### 2019
+
+- Blanco FA, Czikora A, Kedei N, **You Y**, et al. [Munc13 is a molecular target of bryostatin 1](https://doi.org/10.1021/acs.biochem.9b00427). *Biochemistry* (2019).
+
+
+### 2018
+
+- Czikora A, Pany S, **You Y**, et al. [Structural determinants of phorbol ester binding activity of the C1a and C1b domains of protein kinase C theta](https://doi.org/10.1016/j.bbamem.2018.01.007). *Biochimica et Biophysica Acta (BBA) - Biomembranes* (2018).
+
+
+### 2017
+
+- Das J, Kedei N, Kelsey JS, **You Y**, et al. [Critical role of Trp-588 of presynaptic Munc13-1 for ligand binding and membrane translocation](https://doi.org/10.1021/acs.biochem.7b00764). *Biochemistry* (2017).
+
+- Pany S, Ghosh A, **You Y**, Nguyen N, Das J. [Resveratrol inhibits phorbol ester-induced membrane translocation of presynaptic Munc13-1](https://doi.org/10.1016/j.bbagen.2017.07.006). *Biochimica et Biophysica Acta (BBA) - General Subjects* (2017).
+
+
+### 2016
+
+- Pany S, **You Y**, Das J. [Curcumin inhibits protein kinase Cα activity by binding to its C1 domain](https://doi.org/10.1021/acs.biochem.6b00932). *Biochemistry* (2016).
+
+
+### 2014
+
+- **You Y**, Jang IH, Lee K, Kim HJ, Lee KH. [An approach for a substitution matrix based on protein blocks and physicochemical properties of amino acids through PCA](https://doi.org/10.4051/ibc.2014.6.4.0003). *Interdisciplinary Bio Central* (2014).
+
+
+## Preprints and manuscripts
+
+Current work that is not yet part of the peer-reviewed publication record is listed separately.
+
+- **You Y**, Kim H, Ushakumary MG, et al. **Carbamylome analysis reveals regulatory roles for lysine carbamylation in β-cell glycolytic and insulin-processing enzymes.** *Biochemical Journal* (2026). Under revision.
+
+- Krieger C†, Everton Z†, **You Y**†, et al. **PTMOverlay: A Proteomic Tool to Visualize Post-Translational Modifications Across Evolution.** *Proteomics / bioRxiv* (2026). Under review.
+
+- Sarkar S, Flores JE, Nune N, et al., **You Y**, et al. **Multi-omics data compendium of pancreatic islet and β cell responses to pro-inflammatory cytokines.** *Scientific Data* (2026). Under review.
+
+- Sarkar S, Li F, **You Y**, et al. **Insulin post-transcriptional regulation via PARP12-mediated ADP-ribosylation.** *Cell Communication and Signaling* (2025). Under revision.
+
+- Van Fossen EM, Stephenson M, Frank A, et al., **You Y**, et al. **Efficient genetic code expansion tools enable in vivo study of lysine acetylation in non-model bacteria.** *bioRxiv* (2025). Preprint.
