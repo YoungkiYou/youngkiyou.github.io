@@ -32,7 +32,7 @@ Endogenous DAG, phorbol esters, DAG-lactones, bryostatin 1, resveratrol, and eth
 :::
 :::
 
-::: {.panel-tabset .munc13-tabs}
+::: {.panel-tabset .research-tabs}
 ## 1 · Residues and mutations
 
 <div class="research-slide">
@@ -144,7 +144,7 @@ Photosynthetic microorganisms (*Chlamydomonas reinhardtii* and *Prochlorococcus*
 :::
 :::
 
-::: {.panel-tabset .xlms-tabs}
+::: {.panel-tabset .research-tabs}
 ## 1 · Apolipoprotein interactions
 
 <div class="research-slide">
@@ -267,7 +267,7 @@ Carbamylation, acetylation, phosphorylation, methylation, ADP-ribosylation, PTM 
 :::
 :::
 
-::: {.panel-tabset .ptm-tabs}
+::: {.panel-tabset .research-tabs}
 ## 1 · Carbamylation and PTM crosstalk
 
 <div class="research-slide">
