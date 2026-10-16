@@ -351,14 +351,15 @@ My research experience spans several areas of protein science and proteomics. My
 
 ## Future research direction {#future-research-direction}
 
-### Molecular mechanisms of protein recognition and conformational regulation in neuronal signaling
+### Molecular mechanisms of protein recognition and conformational regulation
 
-My long-term research interest is to understand how molecular recognition, conformational dynamics, and physical protein interactions regulate neuronal signaling and synaptic function.
+My long-term research interest is to understand how molecular recognition, conformational dynamics, physical protein interactions, and post-translational modifications regulate protein function.
 
-Building on my studies of Munc13-1, protein complex architecture, and post-translational regulation, I aim to investigate how ligand binding, protein–protein interactions, and molecular perturbations alter the structural and functional states of regulatory proteins, with particular interest in neuronal systems.
+Building on my studies of Munc13-1, protein complex architecture, and PTM-dependent regulation, I aim to investigate how ligand binding, protein–protein interactions, and molecular perturbations alter the structural and functional states of regulatory proteins.
 
 I am particularly interested in integrating structural biology, biophysical characterization, structural proteomics, computational modeling, and functional assays to establish mechanistic relationships between molecular interactions, structural remodeling, and cellular function.
 
+**Long-term direction:** to define how molecular interactions and chemical modifications reshape dynamic protein states and assemblies, and how these changes regulate biological function.
 
 
 ## Technical expertise {#technical-expertise}
